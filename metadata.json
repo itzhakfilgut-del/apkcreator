@@ -1,0 +1,5 @@
+{
+  "name": "Yeshiva Clicker",
+  "description": "A click counter app with map, leaderboard, and admin panel.",
+  "requestFramePermissions": ["geolocation"]
+}
